@@ -1,0 +1,22 @@
+{
+    "version": "0.0.1-alpha.11",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/pocketonehq/pocketone/releases/download/v0.0.1-alpha.11/pocketone_0.0.1-alpha.11_windows_amd64.zip",
+            "bin": [
+                "pocketone.exe"
+            ],
+            "hash": "074122ad8f85fc22a7a5c1cf207240775d412db0aa98a0f72ac4dbd4fe91b08d"
+        },
+        "arm64": {
+            "url": "https://github.com/pocketonehq/pocketone/releases/download/v0.0.1-alpha.11/pocketone_0.0.1-alpha.11_windows_arm64.zip",
+            "bin": [
+                "pocketone.exe"
+            ],
+            "hash": "75f1c82331d91dd7d3a409f363d54a131912f67da6b65aa37a1d7f26982ff5a7"
+        }
+    },
+    "homepage": "https://github.com/pocketonehq/pocketone",
+    "license": "MIT",
+    "description": "PocketOne, a community fork of PocketBase with extensions (pages, pocker and more)"
+}
