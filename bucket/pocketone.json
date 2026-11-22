@@ -1,19 +1,19 @@
 {
-    "version": "0.0.1-alpha.11",
+    "version": "0.0.1-alpha.12",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/pocketonehq/pocketone/releases/download/v0.0.1-alpha.11/pocketone_0.0.1-alpha.11_windows_amd64.zip",
+            "url": "https://github.com/pocketonehq/pocketone/releases/download/v0.0.1-alpha.12/pocketone_0.0.1-alpha.12_windows_amd64.zip",
             "bin": [
                 "pocketone.exe"
             ],
-            "hash": "074122ad8f85fc22a7a5c1cf207240775d412db0aa98a0f72ac4dbd4fe91b08d"
+            "hash": "c9c1a048e94aa131b84af209ef7f97e91d4d5730c67c8562c471c394ae7b433f"
         },
         "arm64": {
-            "url": "https://github.com/pocketonehq/pocketone/releases/download/v0.0.1-alpha.11/pocketone_0.0.1-alpha.11_windows_arm64.zip",
+            "url": "https://github.com/pocketonehq/pocketone/releases/download/v0.0.1-alpha.12/pocketone_0.0.1-alpha.12_windows_arm64.zip",
             "bin": [
                 "pocketone.exe"
             ],
-            "hash": "75f1c82331d91dd7d3a409f363d54a131912f67da6b65aa37a1d7f26982ff5a7"
+            "hash": "6574e7a34e08dbb01dbc51b7546044c76b69d3b48e17e46c3b594a3f815a7157"
         }
     },
     "homepage": "https://github.com/pocketonehq/pocketone",
